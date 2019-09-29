@@ -1,6 +1,7 @@
 package com.manish.superbalancetree;
 
 public class SuperBalanceTree {
+    
 }
 
 class Tree {
@@ -11,5 +12,5 @@ class Tree {
         this.value = value;
         left = right = null;
     }
-    
+
 }
